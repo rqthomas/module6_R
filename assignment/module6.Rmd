@@ -3,7 +3,7 @@ title: "Understanding Uncertainty in Ecological Forecasts"
 author: "Tadhg Moore, Mary Lofton, R.Quinn Thomas, Cayelan Carey"
 date: "`r Sys.Date()`"
 output:
-  github_document: default
+  html_document: default
 ---
 
 ## Purpose of this R Markdown
